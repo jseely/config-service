@@ -16,10 +16,7 @@ def initialize_client():
     APPLICATION.initialize(Configuration())
 
 def execute_cli_command(command):
-    try:
-        cmd_result = APPLICATION.execute(command)
-        return cmd_result.result
-    except:
-        return None
+    cmd_result = APPLICATION.execute(command)
+    return cmd_result.result
 
 initialize_client()
