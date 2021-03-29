@@ -89,7 +89,7 @@ prompt-toolkit==1.0.14
 pyasn1==0.2.3
 pycparser==2.17
 pydocumentdb==2.2.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.5.0
 pyOpenSSL==17.0.0
 pyparsing==2.2.0
