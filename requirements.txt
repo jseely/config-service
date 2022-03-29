@@ -83,7 +83,7 @@ msrest==0.4.7
 msrestazure==0.4.7
 oauthlib==2.0.2
 packaging==16.8
-paramiko==2.1.2
+paramiko==2.10.1
 pkg-resources==0.0.0
 prompt-toolkit==1.0.14
 pyasn1==0.2.3
